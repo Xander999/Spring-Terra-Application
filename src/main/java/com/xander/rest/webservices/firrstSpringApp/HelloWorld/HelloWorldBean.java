@@ -1,4 +1,4 @@
-package com.xander.rest.webservices.firrstSpringApp;
+package com.xander.rest.webservices.firrstSpringApp.HelloWorld;
 
 public class HelloWorldBean {
 	
