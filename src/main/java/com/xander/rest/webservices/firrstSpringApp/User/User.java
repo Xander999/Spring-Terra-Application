@@ -8,6 +8,9 @@ public class User {
 	private String name;
 	private Date bithDate;
 	
+	protected User() {
+		
+	}
 	
 	public User(Integer id, String name, Date bithDate) {
 		super();
